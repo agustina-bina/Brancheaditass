@@ -6,4 +6,4 @@ Presentación: Soy Sofia Serra, tengo 19 años. Objetivos: aprobar la materia y 
 
 Presentación: Soy Agustina Bina, tengo 22 años Objetivos: Mejorar en Java Logros: Crear páginas webs Gustos: Leer, Programar Conocimientos: HTML, CSS, JAVASCRIPT, PYTHON
 
-Presentación: Soy Sofía Viand, tengo 19 años y estudio Ingeniería en Sistemas. Objetivos: seguir aprendiendo y ganar experiencia. Logros: Haber avanzado en la carrera y haber aprendido diferentes lenguajes. Gustos: Leer, pasar tiempo con amigos. Conocimientos: Phyton.
+Presentación: Soy Sofía Viand, tengo 19 años y estudio Ingeniería en Sistemas. Objetivos: seguir aprendiendo y ganar experiencia. Logros: Haber avanzado en la carrera y haber aprendido diferentes lenguajes. Gustos: Leer, pasar tiempo con amigos. Conocimientos: Phyton..
